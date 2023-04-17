@@ -6,7 +6,7 @@ grammar = {
     'ML_COMMENT': r'\/\*.*?\*\/',  # Multi-line comment. Syntax: /* hi */
     'WHILE': r'while', # while
     'DO': r'do', # do
-		'FOR': r'for', # for
+    'FOR': r'for', # for
     'IN': r'in', # in
     'TO': r'\.\.\.', # ... (to)
     'FUN': r'fun', # fun
